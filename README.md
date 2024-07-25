@@ -1,0 +1,1 @@
+Zhaoming Chen, Xinyang Chen,Guoting Chen, and Wensheng Gan, Frequent Subgraph Mining in Dynamic Databases, 2023 IEEE International Conference on BigData, pp 5733-5742. Presentation and talk in Sorrento, Italy.
